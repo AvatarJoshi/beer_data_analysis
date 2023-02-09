@@ -1,3 +1,9 @@
+# Additional files to ignore
+.DS_Store
+
+# Additional folders to ignore
+datasets
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
